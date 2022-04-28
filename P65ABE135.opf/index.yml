@@ -6,11 +6,6 @@ annotations:
     parts: {}
     span:
     - vol: 14
-<<<<<<< HEAD
-      start: 1
-      end: 2485
-=======
       start: 0
       end: 2478
->>>>>>> 19c208a5871e2ec60d59bb7b5a5836aa7cadb7cd
     work_id: D1759
